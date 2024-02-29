@@ -65,4 +65,5 @@ WHERE
     and tipo_vehiculo.marcas_id = marcas.id
 
 
+/* a*/
    
